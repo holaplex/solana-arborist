@@ -3242,6 +3242,7 @@ dependencies = [
  "anyhow",
  "bs58 0.5.0",
  "clap 4.3.17",
+ "lazy_static",
  "mpl-bubblegum",
  "rpassword 7.2.0",
  "solana-clap-v3-utils",
